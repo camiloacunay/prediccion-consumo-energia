@@ -4,6 +4,10 @@ Proyecto de forecasting aplicado al consumo energético, desarrollado en Python 
 
 El objetivo fue construir una visualización interactiva que represente una predicción probabilística del consumo energético usando una ventana histórica de 48 horas y un horizonte futuro de 24 horas.
 
+<p align="center">
+  <img src="assets/preview_prediccion_consumo_energia.jpg" alt="Vista previa del gráfico de predicción probabilística de consumo energético" width="900">
+</p>
+
 ## Objetivo
 
 Predecir el consumo energético futuro y cuantificar la incertidumbre mediante trayectorias simuladas, intervalos de predicción y distribución esperada al final del horizonte.
