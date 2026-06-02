@@ -57,6 +57,12 @@ El proyecto genera un gráfico interactivo con:
 notebook/
   prediccion_consumo_energia.ipynb
 
+## Accesos del proyecto
+
+- [Ver notebook del análisis](notebook/prediccion_consumo_energia.ipynb)
+- [Ver gráfico interactivo HTML](outputs/grafico_prediccion_consumo_energia_5000.html)
+- [Ver imagen de vista previa](assets/preview_prediccion_consumo_energia.jpg)
+
 outputs/
   grafico_prediccion_consumo_energia_5000.html
 
