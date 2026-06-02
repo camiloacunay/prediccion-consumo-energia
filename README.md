@@ -7,6 +7,10 @@ El objetivo fue construir una visualización interactiva que represente una pred
 <p align="center">
   <img src="assets/preview_prediccion_consumo_energia.jpg" alt="Vista previa del gráfico de predicción probabilística de consumo energético" width="900">
 </p>
+## Resultado visual
+
+La visualización final muestra una predicción probabilística del consumo energético utilizando una ventana histórica de 48 horas y un horizonte futuro de 24 horas. El gráfico incluye trayectorias simuladas, bandas de incertidumbre, pronóstico medio, mediana simulada, valor real observado e histograma de distribución al final del horizonte.
+
 ## Accesos del proyecto
 
 - [Ver notebook del análisis](notebook/prediccion_consumo_energia.ipynb)
