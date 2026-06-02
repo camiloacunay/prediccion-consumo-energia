@@ -7,6 +7,11 @@ El objetivo fue construir una visualización interactiva que represente una pred
 <p align="center">
   <img src="assets/preview_prediccion_consumo_energia.jpg" alt="Vista previa del gráfico de predicción probabilística de consumo energético" width="900">
 </p>
+## Accesos del proyecto
+
+- [Ver notebook del análisis](notebook/prediccion_consumo_energia.ipynb)
+- [Ver gráfico interactivo HTML](outputs/grafico_prediccion_consumo_energia_5000.html)
+- [Ver imagen de vista previa](assets/preview_prediccion_consumo_energia.jpg)
 
 ## Objetivo
 
@@ -57,14 +62,9 @@ El proyecto genera un gráfico interactivo con:
 notebook/
   prediccion_consumo_energia.ipynb
 
-## Accesos del proyecto
-
-- [Ver notebook del análisis](notebook/prediccion_consumo_energia.ipynb)
-- [Ver gráfico interactivo HTML](outputs/grafico_prediccion_consumo_energia_5000.html)
-- [Ver imagen de vista previa](assets/preview_prediccion_consumo_energia.jpg)
-
 outputs/
   grafico_prediccion_consumo_energia_5000.html
 
 assets/
   preview_prediccion_consumo_energia.png
+
